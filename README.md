@@ -1,7 +1,7 @@
 ### Bem-vindo!! 👋
 
 <div>
-  <a href="https://github.com/giovannijanial">
+  <a href="https://github.com/giovannijanial"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannijanial&show_icons=true&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannijanial&layout=compact&langs-count=16&theme=onedark"/>
 <div>
@@ -29,3 +29,12 @@
   <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
   
+<div>
+  <p> Contact: </p>
+  <a href="https://www.linkedin.com/in/gpjanial/">
+    <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://twitter.com/giovannijanial">
+    <img width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> 
+  </a> 
+</div>
